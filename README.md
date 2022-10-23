@@ -35,7 +35,7 @@
 
 | 名称                                                         | 描述                                       |
 | ------------------------------------------------------------ | ------------------------------------------ |
-| [Finder --> iTerm](https://github.com/Ssssv11/Raycast-Scripts/blob/main/finder-->iterm.applescript) | 打开 `iTerm` 并进入当前 `Finder` 所在目录  |
+| [Finder to iTerm](https://github.com/Ssssv11/Raycast-Scripts/blob/main/finder-to-iterm.applescript) | 打开 `iTerm` 并进入当前 `Finder` 所在目录  |
 | [Run Shell Command](https://github.com/Ssssv11/Raycast-Scripts/blob/main/run-shell-command.applescript) | 在 `Raycast` 中运行 `Shell` 并打开 `iTerm` |
 
 </br>
