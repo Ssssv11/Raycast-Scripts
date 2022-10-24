@@ -23,15 +23,9 @@
 
 </br>
 
-## 浏览器
+## 应用
 
-| 名称                                                         | 描述                                           |
-| ------------------------------------------------------------ | ---------------------------------------------- |
-| [Copy Current Page URL](https://github.com/Ssssv11/Raycast-Scripts/blob/main/copy-current-page-url.sh) | 复制 Google Chrome 当前页面的 URL 路径到剪切板 |
-
-</br>
-
-## 终端
+### iTerm
 
 | 名称                                                         | 描述                                       |
 | ------------------------------------------------------------ | ------------------------------------------ |
@@ -40,9 +34,24 @@
 
 </br>
 
+### Google Chrome
+
+| 名称                                                         | 描述                                           |
+| ------------------------------------------------------------ | ---------------------------------------------- |
+| [Copy Current Page URL](https://github.com/Ssssv11/Raycast-Scripts/blob/main/copy-current-page-url.sh) | 复制 Google Chrome 当前页面的 URL 路径到剪切板 |
+
+</br>
+
+### Sublime
+
+| 名称                                                         | 描述                        |
+| ------------------------------------------------------------ | --------------------------- |
+| [Open With Sublime](https://github.com/Ssssv11/Raycast-Scripts/blob/main/open-with-sublime.applescript) | 用 `Sublime` 打开选中的文件 |
+
+</br>
+
 ## 蓝牙
 
 | 名称                                                         | 描述                        |
 | ------------------------------------------------------------ | --------------------------- |
 | [Toggle Airpods](https://github.com/Ssssv11/Raycast-Scripts/blob/main/toggle-airpods.swift) | 切换 AirPods 的蓝牙连接状态 |
-

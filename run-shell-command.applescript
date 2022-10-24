@@ -71,12 +71,12 @@ on run argv
 			call_forward()
 		end if
 	end if
-
+	
 	-- Make sure a window exists before we continue, or the write may fail
 	repeat until has_windows()
 		delay 0.01
 	end repeat
-
+	
 	send_text(argv)
 	call_forward()
 end run
