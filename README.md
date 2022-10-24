@@ -34,6 +34,14 @@
 
 </br>
 
+### Finder
+
+| 名称                                                         | 描述                                   |
+| ------------------------------------------------------------ | -------------------------------------- |
+| [Copy Focused Finder Window Path](https://github.com/Ssssv11/Raycast-Scripts/blob/main/copy-focused-finder-window-path.sh) | 复制当前聚焦的 `Finder` 窗口的完整路径 |
+
+</br>
+
 ### Google Chrome
 
 | 名称                                                         | 描述                                           |
@@ -55,3 +63,5 @@
 | 名称                                                         | 描述                        |
 | ------------------------------------------------------------ | --------------------------- |
 | [Toggle Airpods](https://github.com/Ssssv11/Raycast-Scripts/blob/main/toggle-airpods.swift) | 切换 AirPods 的蓝牙连接状态 |
+
+</br>
