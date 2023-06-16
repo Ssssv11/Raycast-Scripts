@@ -7,7 +7,7 @@
 # @raycast.packageName Google Chrome
 #
 # Optional parameters:
-# @raycast.icon 🧭
+# @raycast.icon images/arc.png
 #
 # Documentation:
 # @raycast.description This script copies URL of currently opened page in Google Chrome into clipboard.

@@ -4,8 +4,9 @@
 
 | 名称                                                         | 描述                       |
 | :----------------------------------------------------------- | :------------------------- |
-| [Capture FullScreen to Clipboard](https://github.com/Ssssv11/Raycast-Scripts/blob/main/capture-fullscreen-to-clipboard.sh) | 全屏截图并粘贴到剪切板     |
-| [Capture Screen Selection to Clipboard](https://github.com/Ssssv11/Raycast-Scripts/blob/main/capture-screen-selection-to-clipboard.sh) | 选定区域截图并粘贴到剪切板 |
+| ~~[Capture FullScreen to Clipboard](https://github.com/Ssssv11/Raycast-Scripts/blob/main/capture-fullscreen-to-clipboard.sh)~~ | ~~全屏截图并粘贴到剪切板~~     |
+| ~~[Capture Screen Selection to Clipboard](https://github.com/Ssssv11/Raycast-Scripts/blob/main/capture-screen-selection-to-clipboard.sh)~~ | ~~选定区域截图并粘贴到剪切板~~ |
+| [Shottr](https://shottr.cc) | 推荐使用 Shottr |
 
 </br>
 
@@ -29,7 +30,8 @@
 
 | 名称                                                         | 描述                                       |
 | ------------------------------------------------------------ | ------------------------------------------ |
-| [Finder to iTerm](https://github.com/Ssssv11/Raycast-Scripts/blob/main/finder-to-iterm.applescript) | 打开 `iTerm` 并进入当前 `Finder` 所在目录  |
+| ~~[Finder to iTerm](https://github.com/Ssssv11/Raycast-Scripts/blob/main/finder-to-iterm.applescript)~~ | ~~打开 `iTerm` 并进入当前 `Finder` 所在目录~~  |
+| [Terminal Finder](https://www.raycast.com/yedongze/terminalfinder) | 主力终端已经由 `iTerm` 更换为 [Warp](https://warp.dev)，推荐安装插件 `Terminal Finder`，支持 `iTerm` 与 `Warp`  |
 | [Run Shell Command](https://github.com/Ssssv11/Raycast-Scripts/blob/main/run-shell-command.applescript) | 在 `Raycast` 中运行 `Shell` 并打开 `iTerm` |
 
 </br>
@@ -63,5 +65,13 @@
 | 名称                                                         | 描述                        |
 | ------------------------------------------------------------ | --------------------------- |
 | [Toggle Airpods](https://github.com/Ssssv11/Raycast-Scripts/blob/main/toggle-airpods.swift) | 切换 AirPods 的蓝牙连接状态 |
+
+</br>
+
+## Git
+
+| 名称                                                         | 描述                       |
+| :----------------------------------------------------------- | :------------------------- |
+| [Git Clone](https://github.com/Ssssv11/Raycast-Scripts/blob/main/gitclone.sh) | 将剪切板中的 Git 地址克隆到当前所选的文件夹     |
 
 </br>

@@ -6,7 +6,7 @@
 # @raycast.mode silent
 
 # Optional parameters:
-# @raycast.icon ✉️
+# @raycast.icon images/Message.png
 # @raycast.packageName Message
 
 # Documentation:
